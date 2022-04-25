@@ -1,0 +1,18 @@
+.demo-text-green{
+    color:green;
+}
+.demo-text-red{
+    color: red;
+}
+.fs-24{
+    font-size: 24px;
+}
+.font-weight-600{
+    font-weight:600;
+}
+.min-w-300{
+    min-width: 300px;
+}
+.demo-other-button.hide{
+    display: none !important;
+}

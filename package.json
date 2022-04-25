@@ -1,0 +1,12 @@
+{
+  "name": "demo-woocommerce-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Bureau-Inc/demo-woocommerce-plugin",
+  "author": "demo <palash@bureau.id>",
+  "license": "MIT",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.17.6",
+    "prettier": "^2.5.1"
+  }
+}
